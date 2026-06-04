@@ -66,11 +66,15 @@ Currently improving my skills in Java, SQL, Docker, and modern backend technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
 </div>
 
-## 📊 GitHub Stats
+## My Stats
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/antoniochavesgarcia/antoniochavesgarcia/output/snake.svg" alt="Snake animation" />
+
+  <a href="https://open.spotify.com/user/31jeao6yo5mfi47bct3ucvh3erzy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jeao6yo5mfi47bct3ucvh3erzy&count=5&unique=true" alt="Spotify recently played" />
+  </a>
 
 </div>
 
